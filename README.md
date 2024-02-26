@@ -46,17 +46,5 @@ Create a new PBR Graph by right-clicking in the Project view and selecting `Crea
 
 Select the ice material in the editor and change its shader to the `Ice` shader created with Shader Graph. Adjust the `Refract Strength` to see the refraction effect in action.
 
-## Contributing
-
-Contributions to improve the shader or extend its functionality are welcome. Please follow the standard GitHub workflow for submitting pull requests.
-
-## License
-
-This project is open-source and available under the MIT License. See the LICENSE file for more details.
-
-## Acknowledgments
-
-- Thanks to cc0textures.com for providing the ice texture.
-- Special thanks to all the patrons and subscribers who support the creation of these tutorials.
 
 Enjoy creating your icy scenes!
